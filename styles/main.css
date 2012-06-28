@@ -1,0 +1,144 @@
+body {
+	font-family: Arial;
+	background-color: #BF2026;
+	color: white;
+}
+div#logo {
+	text-align: center;
+}
+table {
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+}
+#logo {
+	padding: 20px;
+}
+div#header a {
+	text-decoration: none;
+}
+div#header a img {
+	border: none;
+}
+.text-content ul {
+	margin-left: 30px;
+	list-style: disc;
+}
+.question {
+	font-weight: bold;
+	font-style: italic;
+}
+#title {
+	margin-bottom: 40px;
+	margin-left: 20px;
+}
+table img {
+	position:absolute;
+	top: -140px;
+	right: 0px;
+}
+#headline {
+	font-size: 2.5em;
+	font-weight: bold;
+	color: #fff;
+	text-transform: uppercase;
+}
+#subhead {
+	font-size: 1.1em;
+	color: #fff;
+	text-transform: uppercase;
+}
+ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+ul#menu {
+	text-align: right;
+}
+ul li {
+	padding-bottom: 5px;
+}
+ul#menu li {
+	font-size: 20px;
+	padding: 0;
+}
+ul#menu a {
+	text-decoration: none;
+	color: #fff;
+}
+ul#menu a:hover {
+	color: #BF2026;
+	background-color: #fff;
+}
+div#outer {
+	font-size: 1em;
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	border-right: #fff solid 1px;
+}
+div#inner {
+	padding-right: 40px;
+	padding-bottom: 40px;
+}
+h3 {
+	color: white;
+}
+a {
+	color: white;
+}
+th {
+	text-align:left;
+	padding-bottom: 1em;
+	padding-right: 1em;
+}
+td {
+	padding-right: 1em;
+}
+a.big-button {
+	display:block;
+	background-color: #133258;
+	padding-top: 7px;
+	padding-bottom: 5px;
+	border: #fff solid 1px;
+	width: 220px;
+	text-decoration: none;
+	text-align: center;
+	margin-top: 12px;
+	margin-left: auto;
+	margin-right: auto;
+}
+a.big-button {
+	background-color: #0554A3;
+}
+.coaches-table {
+	width: 770px;
+}
+.coaches-table th.age-group {
+	width: 4%;
+	vertical-align: top;
+}
+.coaches-table th.coach-name {
+	width: 25%;
+	vertical-align: top;
+}
+.coaches-table th.roster-size {
+	width: 21%;
+	vertical-align: top;
+}
+.coaches-table th, .coaches-table td {
+	padding-right: .3em;
+}
+#tryout-schedule td, #tryout-schedule th {
+	padding-right: .3em;
+}
+#main-menu td {
+	padding-right: 0;
+}
+.group-division {
+	font-weight: bold;
+}
+.group-division td {
+	width: 25%;
+}
